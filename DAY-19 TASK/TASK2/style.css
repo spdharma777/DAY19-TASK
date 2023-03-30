@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(33, 194, 186);
+}
+h1{
+    color: white;
+    background-color: rgb(5, 77, 80);
+    max-block-size: 150px;
+}

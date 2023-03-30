@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(96, 168, 236, 0.74);
+    font-size: larger;
+}
+h1{
+    color: white;
+    background-color: rgb(11, 3, 59);
+    max-block-size: 150px;
+}
+table th image {
+
+    height: 250px;
+    width: 250px;
+}
+img {
+    border-radius: 8px;
+    height: 250px;
+    object-fit: cover;
+  }
+  

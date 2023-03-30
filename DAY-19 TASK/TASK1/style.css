@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(247, 250, 249);
+    margin: 0;
+    padding: 0;
+}
+h1{
+    height: 40px;
+    padding:10px;
+    background-color: rgb(13, 53, 235);
+    color:white;
+    font-weight: 900;
+    font-style: initial;
+    margin: 0;
+    padding: 5;
+
+    
+}
+.card img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px;
+    border: 15px;
+    border-radius: 10px;
+    
+}
+button{
+    font-size:20px;
+    border: none;
+    background-color: rgb(9, 41, 219);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    position: fixed;
+    bottom: 10px;
+    cursor: pointer;
+}
